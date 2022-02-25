@@ -8,12 +8,12 @@ export const Footer = () => {
           <div className="flex items-center justify-center flex-shrink-0 w-12 h-12 rounded-full bg-violet-600">
             <img
               className="block sm:hidden h-8 w-48 rounded-md"
-              src="/images/logo.jpg"
+              // src="/images/logo.jpg"
               alt="logo"
             />
             <img
               className="hidden sm:block h-9 w-48 rounded"
-              src="/images/logo.jpg"
+              // src="/images/logo.jpg"
               alt="logo"
             />
           </div>
@@ -38,7 +38,7 @@ export const Footer = () => {
           </li>
         </ul>
         <div className="py-6 text-xs text-center text-gray-300">
-          {` © ${new Date().getFullYear()} Raxon Company Co. All rights reserved.`}
+          {` © ${new Date().getFullYear()} Polima Company Co. All rights reserved.`}
         </div>
       </div>
     </footer>
