@@ -40,12 +40,12 @@ export function HeaderBar() {
                   <Link to="/" className="flex-shrink-0 flex items-center">
                     <img
                       className="block sm:hidden h-8 w-auto rounded-md shadow-md"
-                      src="/images/logo.jpg"
+                      // src="/images/logo.jpg"
                       alt="logo"
                     />
                     <img
                       className="hidden sm:block h-9 w-auto rounded-md shadow-md"
-                      src="/images/logo.jpg"
+                      // src="/images/logo.jpg"
                       alt="logo"
                     />
                   </Link>
